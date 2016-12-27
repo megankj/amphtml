@@ -15,9 +15,12 @@ limitations under the License.
 -->
 # Custom Search Ads
 
+<<<<<<< HEAD
 _The Custom Search Ads integration is offered as a Beta and is subject to the
 Beta conditions of the Google Program Guidelines._
 
+=======
+>>>>>>> ampproject/master
 ## AdSense For Search (AFS)
 
 To request AdSense for Search ads on the Custom Search Ads protocol, use the
